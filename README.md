@@ -10,7 +10,7 @@ To simulate a realistic dataset and build a machine learning model that predicts
 ## 📋 Project Summary
 
 ### 1. Synthetic Data Generation
-- Created a dataset of **27,000 customer-month records**
+- Created a dataset of **26,000 customer-month records**
 - Based on real-world financial logic:
   - **High DPD + High Utilization** → Score likely to decrease  
   - **Good repayment + Low EMI burden** → Score likely to increase
